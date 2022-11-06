@@ -12,7 +12,7 @@
     <a><h3><b>Katarogu</b></h3></a>
     <b>Anime & manga tracking/listing website & community forum, that I've put on hold for so long, but I swear I'll do it.</b><br/><br/>
     <h2>Languages/Frameworks/Libraries used</h2>
-    | Category  | Stuff Used                                                                                          |
-    | --------- | --------------------------------------------------------------------------------------------------- |
+    | Category  | Stuff Used |
+    | --- | --- |
     | Languages | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
 </div>

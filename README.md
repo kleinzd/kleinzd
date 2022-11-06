@@ -1,11 +1,10 @@
 <p align="center">
     <img height="250" src="images/takina.png"><br/>
     <b>"Success occurs when your dreams get bigger than your excuses."</b>
-    <br/><br/>
 </p>
 
-<h2>👋 Hi! I'm Kleinz</h2><br/>
-    ...that's my online alias anyway. I'm Miguel, a 14 year old high school student doing web development as a hobby. I come from the Philippines. I dream of pursuing a career as a developer, in fact thats what I already am now. Been learning development stuff for 3 years now. Nice to meet y'all<br/><br/>
+## 👋 Hi! I'm Kleinz
+...that's my online alias anyway. I'm Miguel, a 14 year old high school student doing web development as a hobby. I come from the Philippines. I dream of pursuing a career as a developer, in fact thats what I already am now. Been learning development stuff for 3 years now. Nice to meet y'all
 
 ## Projects
 

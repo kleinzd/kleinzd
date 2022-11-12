@@ -8,9 +8,9 @@
 
 ## Projects
 
-<a><h3><b>Katarogu</b></h3></a>
+<a href="https://github.com/katarogu"><h3><b>Katarogu</b></h3></a>
 <b>Anime & manga tracking/listing website & community forum, that I've put on hold for so long, but I swear I'll do it.</b><br/><br/>
-<a><h3><b>Professes</b></h3></a>
+<a href="https://github.com/kleinzd/professes"><h3><b>Professes</b></h3></a>
 <b>Anonymous confessions app</b><br/><br/>
 
 <h2>Stuff I use/used</h2>

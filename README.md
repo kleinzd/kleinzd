@@ -6,7 +6,7 @@
 
 > "Success occurs when your dreams get bigger than your excuses."
 
-Hi! I'm Miguel, also known by my online alias, Kleinz. I'm a 3rd year high school student, that's currently residing in the Philippines. I learn and do development as a hobby, and I plan to take it as a professional career when I grow up. I also watch anime and play rhythm games aside from coding. I've also been learning to play guitar as of recently. Overall, pretty normal for a high school student
+Hi! I'm Miguel, also known by my online alias, Kleinz. I'm a 3rd year high school student, that's currently residing in the Philippines. I learn and do development as a hobby, and I plan to take it as a professional career when I grow up. I also watch anime and play rhythm games as a hobby, aside from coding. I've also been learning to play guitar as of recently. Overall, pretty normal for a high school student
 
 <i>my pronouns are he/him btw</i>
 

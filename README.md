@@ -1,6 +1,6 @@
 <p align="center">
     <img height="250" src="images/kita.jpg"><br/>
-    <h3 align="center">Kleinz</h3>
+    <h2 align="center">Kleinz</h2>
     <p align="center">Full-stack web developer, and web designer</p>
 </p>
 

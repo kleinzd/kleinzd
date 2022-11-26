@@ -10,6 +10,10 @@ Hi! I'm Miguel, also known by my online alias, Kleinz. I'm a 3rd year high schoo
 
 <i>my pronouns are he/him btw</i>
 
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleinzd&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleinzd&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ### What I use
 
 | Category                              | Stuff Used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |

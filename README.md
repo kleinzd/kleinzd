@@ -1,7 +1,5 @@
 <p align="center">
-    <img height="250" src="images/kita.jpg"><br/>
-    <h2 align="center">Kleinz</h2>
-    <p align="center">Full-stack web developer, and web designer</p>
+    <i align="center">Full-stack web developer, and web designer</i>
 </p>
 
 > "Success occurs when your dreams get bigger than your excuses."
